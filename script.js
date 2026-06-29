@@ -11,10 +11,9 @@
 //     description: "UPI, ATM, NEFT, IMPS, cheque",
 //     debit: "₹10,000",
 //     credit: "₹20,000"
-//     atm_pin: "315883"
 // };
 
-// console.log(bank_statement);
+// console.table(bank_statement);
 
 //Question - 3
 // let name = "Neha"
@@ -34,9 +33,9 @@
 //     favHobby: "Programming & Cooking",
 // };
 
-// console.log(student_id);
+// console.table(student_id);
 
 //Question - 5
-// let group_member_names = ["Roshan Sharma", "Neha Niharika", "Ayush Kumar", "Manish Kumar"];
+let group_member_names = ["Roshan Sharma", "Neha Niharika", "Ayush Kumar", "Manish Kumar"];
 
-// console.log(group_member_names);
+console.table(group_member_names);
