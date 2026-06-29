@@ -16,9 +16,21 @@
 // console.log(bank_statement);
 
 //Question - 3
-let name = "Neha"
-if (name === "Roshan") {
-    console.log("True");   
-}else {
-    console.log("False");
-}
+// let name = "Neha"
+// if (name === "Roshan") {
+//     console.log("True");   
+// }else {
+//     console.log("False");
+// }
+
+//Question - 4
+// let student_id = {
+//     name: "Roshan Sharma",
+//     age: 20,
+//     jobRole: "IT Manager",
+//     currentLocation: "Banglore",
+//     currentlyWorkingOn: "Legendz Micro Bewery",
+//     favHobby: "Programming & Cooking",
+// };
+
+// console.log(student_id);
