@@ -15,3 +15,10 @@
 
 // console.log(bank_statement);
 
+//Question - 3
+let name = "Neha"
+if (name === "Roshan") {
+    console.log("True");   
+}else {
+    console.log("False");
+}
