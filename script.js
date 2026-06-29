@@ -11,6 +11,7 @@
 //     description: "UPI, ATM, NEFT, IMPS, cheque",
 //     debit: "₹10,000",
 //     credit: "₹20,000"
+//     atm_pin: "315883"
 // };
 
 // console.log(bank_statement);
