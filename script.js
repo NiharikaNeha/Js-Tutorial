@@ -1,5 +1,5 @@
 //Question - 1
-// Variables = Username, Email Id, Password, Age, Phone Number
+// Variables = Username, Email Id, Password, Age, Phone Number, Address
 
 //Question - 2
 // let bank_statement = {
