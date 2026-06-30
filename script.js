@@ -43,7 +43,7 @@
 
 //DAY - 2 TASK
 //Question-2
-//ANs:- I had used .slice() method it is used to print some parts of an array
+//Ans:- I had used .slice() method it is used to print some parts of an array
 const fruits = [
   "Apple",
   "Banana",
