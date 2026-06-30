@@ -1,3 +1,4 @@
+//DAY-1 TASK
 //Question - 1
 // Variables = Username, Email Id, Password, Age, Phone Number, Address
 
@@ -18,7 +19,7 @@
 //Question - 3
 // let name = "Neha"
 // if (name === "Roshan") {
-//     console.log("True");   
+//     console.log("True");
 // }else {
 //     console.log("False");
 // }
@@ -39,3 +40,110 @@
 // let group_member_names = ["Roshan Sharma", "Neha Niharika", "Ayush Kumar", "Manish Kumar"];
 
 // console.table(group_member_names);
+
+//DAY - 2 TASK
+//Question-2
+//ANs:- I had used .slice() method it is used to print some parts of an array
+const fruits = [
+  "Apple",
+  "Banana",
+  "Mango",
+  "Orange",
+  "Grapes",
+  "Pineapple",
+  "Papaya",
+  "Guava",
+  "Watermelon",
+  "Muskmelon",
+  "Kiwi",
+  "Strawberry",
+  "Blueberry",
+  "Raspberry",
+  "Blackberry",
+  "Cherry",
+  "Peach",
+  "Pear",
+  "Plum",
+  "Apricot",
+  "Lemon",
+  "Lime",
+  "Coconut",
+  "Pomegranate",
+  "Dragon Fruit",
+  "Lychee",
+  "Jackfruit",
+  "Custard Apple",
+  "Passion Fruit",
+  "Fig",
+  "Date",
+  "Avocado",
+  "Cranberry",
+  "Gooseberry",
+  "Mulberry",
+  "Star Fruit",
+  "Tamarind",
+  "Sapodilla",
+  "Persimmon",
+  "Nectarine",
+  "Mandarin",
+  "Clementine",
+  "Pomelo",
+  "Blood Orange",
+  "Durian",
+  "Rambutan",
+  "Longan",
+  "Mangosteen",
+  "Soursop",
+  "Breadfruit",
+  "Apple",
+  "Banana",
+  "Mango",
+  "Orange",
+  "Grapes",
+  "Pineapple",
+  "Papaya",
+  "Guava",
+  "Watermelon",
+  "Kiwi",
+  "Strawberry",
+  "Blueberry",
+  "Cherry",
+  "Peach",
+  "Pear",
+  "Plum",
+  "Apricot",
+  "Lemon",
+  "Lime",
+  "Dragon Fruit",
+  "Lychee",
+  "Jackfruit",
+  "Passion Fruit",
+  "Fig",
+  "Date",
+  "Avocado",
+  "Cranberry",
+  "Gooseberry",
+  "Mulberry",
+  "Star Fruit",
+  "Tamarind",
+  "Sapodilla",
+  "Persimmon",
+  "Nectarine",
+  "Mandarin",
+  "Clementine",
+  "Pomelo",
+  "Blood Orange",
+  "Durian",
+  "Rambutan",
+  "Longan",
+  "Mangosteen",
+  "Soursop",
+  "Breadfruit",
+  "Olive",
+  "Quince",
+  "Jujube",
+  "Miracle Fruit",
+  "Bilberry",
+];
+
+console.table(fruits.slice(10, 20));
